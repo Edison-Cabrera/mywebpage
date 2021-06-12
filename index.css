@@ -4,3 +4,23 @@ body
 	margin: 0;
 	font-family: 'Montserrat', sans-serif;
 }
+
+.navbar
+{
+	background-color: #e6ffff;
+}
+.navbar-brand
+{
+	color: #323641;
+	font-size: 21px;
+}
+
+#nvr-logo
+{
+	display: inline-block;
+}
+.nav-link
+{
+	color: #323641;
+	font-size: 19px;
+}
