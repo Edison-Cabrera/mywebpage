@@ -1,0 +1,6 @@
+Palette
+
+Never Bore : #323641 (dark)
+Never Hate : #982e43 (red)
+Never Envy : #006967 (green)
+Never Fade : #e6ffff (light)

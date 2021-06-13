@@ -164,9 +164,70 @@ body
 	background-color: #e6ffff;
 	border-radius: 50px;
 	max-width: 100%;
-	display: flex;
-	align-items: start;
-	justify-content: left;
 	padding: 35px 10px 35px 10px;
 	margin-top: 25px;
+}
+
+#projects-heading
+{
+	font-weight: 400;
+	color: #323641;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 30px;
+	margin-bottom: 25px;
+}
+
+#card-1
+{
+	background-color: #006967;
+	padding: 0px 0px 20px 0px;
+	border-radius: 15px;
+	margin: 30px 30px 30px 30px;
+}
+
+#card-2
+{
+	background-color: #006967;
+	padding: 0px 0px 20px 0px;
+	border-radius: 15px;
+	margin: 30px 30px 30px 30px;
+}
+
+#card-3
+{
+	background-color: #006967;
+	padding: 0px 0px 20px 0px;
+	border-radius: 15px;
+	margin: 30px 30px 30px 30px;
+}
+
+#logo-project
+{
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	object-fit: cover;
+}
+
+#logo-heading
+{
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	object-fit: cover;
+	margin: 20px 0px 0px 0px;
+	font-weight: 400;
+	color: #e6ffff;
+}
+
+#card-row-container
+{
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
 }
