@@ -241,12 +241,7 @@ body
 {
 	margin: 0px 0px 0px 0px;
 	padding:10px 10px 10px 10px;
-	display: flex;
-	
-
-	
-	
-	
+	display: flex;	
 }
 
 #form-row-cont
@@ -299,4 +294,67 @@ body
 	margin: 0px 0px 0px 0px;
 	padding: 10px 10px 10px 10px;
 	display: flex;
+}
+
+#main-footer
+{
+	color: #006967;
+}
+
+.footer-heading-text
+{
+	font-weight: 500;
+	font-size: 17px;
+}
+
+#footer-container
+{
+	background-color: #e6ffff;
+	border-radius: 50px;
+	max-width: 100%;
+	padding: 35px 10px 35px 10px;
+	margin: 25px 0px 1.5% 0px;
+}
+
+#footer-first-row
+{
+	padding: 0px;
+	margin: 0px;
+}
+
+#footer-first-row-first-col, #footer-first-row-second-col 
+{
+	padding: 15px;
+}
+
+.footer-list
+{
+	list-style-type: none;
+}
+.footer-navi-list
+{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+#footer-navi-list-home, #footer-navi-list-about, #footer-navi-list-project, #footer-navi-list-contact
+{
+	text-decoration: none;
+	font-weight: 200;
+	color: #006967;
+}
+
+.follow-me-images-list
+{
+	display: flex;
+	padding: 2px;
+	margin: 2px;
+}
+
+#follow-me-images-1, #follow-me-images-2, #follow-me-images-3, #follow-me-images-4, #follow-me-images-5
+{
+	margin: 10px;
+	padding: 10px;
+	text-decoration: none;
 }
