@@ -9,16 +9,11 @@ body
 {
 	background-color: #e6ffff;
 }
-.navbar-brand
-{
-	color: #323641;
-	font-size: 21px;
-}
 
 #never-creatives-nav
 {
 	font-weight: 500;
-	color: #323641;
+	color: #006967;
 }
 
 #nvr-logo
@@ -27,7 +22,7 @@ body
 }
 .nav-link
 {
-	color: #323641;
+	color: #006967;
 	font-size: 19px;
 }
 
@@ -126,7 +121,7 @@ body
 .about-me-head-text
 {
 	font-weight: 400;
-	color: #323641;
+	color: #006967;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -171,7 +166,7 @@ body
 #projects-heading
 {
 	font-weight: 400;
-	color: #323641;
+	color: #006967;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -229,7 +224,7 @@ body
 #contact-heading
 {
 	font-weight: 400;
-	color: #323641;
+	color: #006967;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -352,7 +347,7 @@ body
 	margin: 2px;
 }
 
-#follow-me-images-1, #follow-me-images-2, #follow-me-images-3, #follow-me-images-4, #follow-me-images-5
+#follow-me-images-1, #follow-me-images-2, #follow-me-images-3, #follow-me-images-4
 {
 	margin: 10px;
 	padding: 10px;
