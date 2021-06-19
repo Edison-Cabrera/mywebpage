@@ -127,8 +127,7 @@ body
 {
 	width: 100%;
 	margin: 0px 0px 0px 0px;
-	padding: 10px 10px 10px 10px;
-	font-weight: 400;
+	padding: 20px 20px 20px 20px;
 	color: #e6ffff;
 }
 
@@ -140,14 +139,11 @@ body
 
 #links-span
 {
-/*	border-top: 1px solid #e6ffff;
-	border-right: 1px solid #e6ffff;
-	border-bottom: 1px solid #e6ffff;
-	border-left: 1px solid #e6ffff;*/
 	background-color: #e6ffff;
-	font-weight: 100;
+	font-weight: 400;
 	color: #006967;
 	border-radius: 5px;
+	padding: 10px 20px 10px 20px;
 }
 
 #card-row-container
