@@ -295,7 +295,9 @@ body
 	margin: 10px;
 	padding: 10px;
 	text-decoration: none;
+	filter: opacity(0.5) drop-shadow(0 0 0 green);
 }
+
 
 #footer-second-row
 {
